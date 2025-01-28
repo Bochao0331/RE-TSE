@@ -12,6 +12,11 @@ Before running the code, ensure that the following dependencies are installed:
 2. **FINUFFT**: [Installation Instructions](https://finufft.readthedocs.io/en/latest/matlab.html)
 3. **ISMRMD**: [Installation Instructions](https://ismrmrd.github.io/apidocs/1.5.0/)
 
+## Folder Structure
+
+### `topup` Folder
+The `topup` folder contains **displacement maps along the frequency-encoding direction**, which are estimated using **FSL TOPUP**. These maps account for off-resonance effects and are critical for the reconstruction process.
+
 ## Usage
 
 The primary script for reconstruction is:
