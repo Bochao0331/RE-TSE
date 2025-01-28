@@ -6,4 +6,4 @@ Before run the codes in this repository, you need to install the following depen
 - FINUFFT: [Installation Instructions](https://finufft.readthedocs.io/en/latest/matlab.html)
 - ISMRMD: [Installation Instructions](https://ismrmrd.github.io/apidocs/1.5.0/)
 
-Use the batch_dual_pec_recon script. run the batch process for Type-1 NUFFT incorporating gradient nonlinearity and off-resonance displacement map-based phase-constrained CG-SENSE reconstruction
+Use the batch_dual_pec_recon. the batch process for Type-1 NUFFT incorporating gradient nonlinearity and off-resonance displacement map-based phase-constrained CG-SENSE reconstruction
