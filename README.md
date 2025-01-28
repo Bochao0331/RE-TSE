@@ -8,4 +8,6 @@ Before run the codes in this repository, you need to install the following depen
 
 Use the batch_dual_pec_recon.m for Type-1 NUFFT incorporating gradient nonlinearity and off-resonance displacement map-based phase-constrained CG-SENSE reconstruction.
 
-A sample of total hip arthroplasty data (coronal) is saved in [10.5281/zenodo.14752390](https://doi.org/10.5281/zenodo.14752390).
+A sample of total hip arthroplasty data (coronal) is saved in [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14752390.svg)](https://doi.org/10.5281/zenodo.14752390)
+
+
